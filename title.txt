@@ -1,0 +1,50 @@
+Swine_NN flu_NN vaccine_NN a a 
+Rare_JJ cosmic_JJ events_NNS a a 
+Godhra_NNP train_NN attack_NN a a 
+Michael_NNP Jackson_NNP 's_POS untimely_JJ death_NN a a 
+Price_NN hike_NN of_IN petroleum_NN products_NNS a a 
+Abduction_NN and_CC murder_NN of_IN journalists_NNS a a 
+Barack_NNP Obama_NNP 's_POS victory_NN a a 
+Torture_NN at_IN the_DT Abu_NNP Ghraib_NNP prison_NN a a 
+Ban_NN slapped_VBD on_IN SIMI_NNP a a 
+India_NNP 's_POS agriculture-friendly_JJ central_JJ budget_NN a a 
+Piracy_NN in_IN the_DT world_NN of_IN entertainment_NN a a 
+The_DT death_NN of_IN LTTE_NN head_NN a a 
+India_NNP 's_POS Women_NNP 's_POS Reservation_NNP Bill_NNP a a 
+Vanquishing_VBG the_DT Somali_JJ pirates_NNS a a 
+Search_VB for_IN life_NN and_CC water_NN in_IN space_NN a a 
+Birth_NN of_IN cloned_VBN human_JJ babies_NNS a a 
+Illegal_JJ felling_NN of_IN trees_NNS a a 
+TATA_NN 's_POS car_NN ,_, Nano_NNP a a 
+Bhopal_NNP gas_NN tragedy_NN a a 
+Assassination_NN of_IN Benazir_NNP Bhutto_NNP a a 
+Ram_NNP Janmabhoomi_NNP verdict_NN a a 
+Cyber_NNP crime_NN in_IN India_NNP a a 
+Popularity_NN of_IN social_JJ networking_NN sites_NNS a a 
+Commonwealth_NNP Games_NNPS in_IN Delhi_NNP a a 
+Bill_NNP Gates_NNP '_POS philanthropic_JJ endeavours_NNS a a 
+An_DT Indian_JJ wins_VBZ the_DT Nobel_NNP Prize_NNP for_IN Chemistry_NNP a a 
+Successful_JJ missile_NN test_NN in_IN India_NNP a a 
+Structure_NN of_IN the_DT Solar_NNP System_NNP a a 
+A._NN Raja_NNP and_CC the_DT 2G_NN Spectrum_NN scam_NN a a 
+Attack_VB on_IN the_DT Taj_NNP in_IN Mumbai_NNP a a 
+Shashi_NNP Tharoor_NNP in_IN the_DT IPL_NNP controversy_NN a a 
+Successful_JJ Indian_JJ films_NNS a a 
+America_NNP 's_POS attack_NN on_IN Afghanistan_NNP a a 
+Sheikh_NNP Hasina_NNP in_IN the_DT 2008_CD elections_NNS a a 
+Iraq_NNP War_NNP 2003_CD a a 
+George_NNP Bush_NNP 's_POS anti-terrorism_JJ operations_NNS a a 
+Catastrophic_NNP tornadoes_NNS a a 
+Tiger_NNP conservation_NN in_IN India_NNP a a 
+Michael_NNP Jackson_NNP and_CC child_NN abuse_NN a a 
+Marriage_NN or_CC divorce_NN laws_NNS a a 
+The_DT Kanishka_NNP air_NN disaster_NN a a 
+Chechen_JJ rebels_NNS and_CC the_DT government_NN a a 
+Suu_NNP Kyi_NNP under_IN house_NN arrest_NN a a 
+Naxalite_JJ attacks_NNS a a 
+Development_NN of_IN Indian_JJ Hockey_NN a a 
+Prime_JJ witness_NN in_IN the_DT Best_JJS Bakery_NNP case_NN a a 
+Female_JJ foeticide_NN in_IN India_NNP a a 
+2008_CD Olympics_NNPS a a 
+International_NNP economic_JJ slump_NN a a 
+Sachin_NNP Tendulkar_NNP 's_POS record_NN of_IN runs_NNS in_IN Test_NN Cricket_NN a a 
